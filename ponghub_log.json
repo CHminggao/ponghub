@@ -1,0 +1,36 @@
+{
+  "My Pages": {
+    "service_history": [
+      {
+        "time": "2025-08-15T04:07:18Z",
+        "status": "all"
+      }
+    ],
+    "endpoints": {
+      "https://www.mdlpro.cn": [
+        {
+          "time": "2025-08-15T04:07:18Z",
+          "status": "all",
+          "response_time": 860
+        }
+      ]
+    }
+  },
+  "My Services": {
+    "service_history": [
+      {
+        "time": "2025-08-15T04:07:19Z",
+        "status": "all"
+      }
+    ],
+    "endpoints": {
+      "https://www.mdlpro.cn": [
+        {
+          "time": "2025-08-15T04:07:20Z",
+          "status": "all",
+          "response_time": 209
+        }
+      ]
+    }
+  }
+}
