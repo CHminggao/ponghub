@@ -48,6 +48,10 @@
       {
         "time": "2025-08-26T18:19:42Z",
         "status": "all"
+      },
+      {
+        "time": "2025-08-27T01:05:47Z",
+        "status": "all"
       }
     ],
     "endpoints": {
@@ -111,6 +115,11 @@
           "time": "2025-08-26T18:19:43Z",
           "status": "all",
           "response_time": 1161
+        },
+        {
+          "time": "2025-08-27T01:05:48Z",
+          "status": "all",
+          "response_time": 646
         }
       ]
     }
@@ -163,6 +172,10 @@
       },
       {
         "time": "2025-08-26T18:19:44Z",
+        "status": "all"
+      },
+      {
+        "time": "2025-08-27T01:05:48Z",
         "status": "all"
       }
     ],
@@ -227,6 +240,11 @@
           "time": "2025-08-26T18:19:45Z",
           "status": "all",
           "response_time": 247
+        },
+        {
+          "time": "2025-08-27T01:05:50Z",
+          "status": "all",
+          "response_time": 212
         }
       ]
     }
