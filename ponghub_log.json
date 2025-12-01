@@ -2,14 +2,6 @@
   "My Pages": {
     "service_history": [
       {
-        "time": "2025-11-27T18:20:22Z",
-        "status": "all"
-      },
-      {
-        "time": "2025-11-28T01:06:45Z",
-        "status": "all"
-      },
-      {
         "time": "2025-11-28T06:23:37Z",
         "status": "all"
       },
@@ -52,20 +44,14 @@
       {
         "time": "2025-11-30T18:19:34Z",
         "status": "all"
+      },
+      {
+        "time": "2025-12-01T01:21:49Z",
+        "status": "all"
       }
     ],
     "endpoints": {
       "https://www.mdlpro.cn": [
-        {
-          "time": "2025-11-27T18:20:23Z",
-          "status": "all",
-          "response_time": 981
-        },
-        {
-          "time": "2025-11-28T01:06:46Z",
-          "status": "all",
-          "response_time": 1101
-        },
         {
           "time": "2025-11-28T06:23:38Z",
           "status": "all",
@@ -120,20 +106,17 @@
           "time": "2025-11-30T18:19:35Z",
           "status": "all",
           "response_time": 1067
+        },
+        {
+          "time": "2025-12-01T01:21:50Z",
+          "status": "all",
+          "response_time": 1385
         }
       ]
     }
   },
   "My Services": {
     "service_history": [
-      {
-        "time": "2025-11-27T18:20:25Z",
-        "status": "all"
-      },
-      {
-        "time": "2025-11-28T01:06:47Z",
-        "status": "all"
-      },
       {
         "time": "2025-11-28T06:23:40Z",
         "status": "all"
@@ -177,20 +160,14 @@
       {
         "time": "2025-11-30T18:19:36Z",
         "status": "all"
+      },
+      {
+        "time": "2025-12-01T01:21:52Z",
+        "status": "all"
       }
     ],
     "endpoints": {
       "https://www.mdlpro.cn": [
-        {
-          "time": "2025-11-27T18:20:25Z",
-          "status": "all",
-          "response_time": 201
-        },
-        {
-          "time": "2025-11-28T01:06:48Z",
-          "status": "all",
-          "response_time": 204
-        },
         {
           "time": "2025-11-28T06:23:41Z",
           "status": "all",
@@ -245,6 +222,11 @@
           "time": "2025-11-30T18:19:37Z",
           "status": "all",
           "response_time": 201
+        },
+        {
+          "time": "2025-12-01T01:21:53Z",
+          "status": "all",
+          "response_time": 279
         }
       ]
     }
