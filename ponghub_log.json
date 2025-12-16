@@ -2,10 +2,6 @@
   "My Pages": {
     "service_history": [
       {
-        "time": "2025-12-13T06:22:10Z",
-        "status": "all"
-      },
-      {
         "time": "2025-12-13T12:28:23Z",
         "status": "all"
       },
@@ -48,15 +44,14 @@
       {
         "time": "2025-12-16T01:14:08Z",
         "status": "all"
+      },
+      {
+        "time": "2025-12-16T06:25:15Z",
+        "status": "all"
       }
     ],
     "endpoints": {
       "https://www.mdlpro.cn": [
-        {
-          "time": "2025-12-13T06:22:11Z",
-          "status": "all",
-          "response_time": 1489
-        },
         {
           "time": "2025-12-13T12:28:24Z",
           "status": "all",
@@ -111,16 +106,17 @@
           "time": "2025-12-16T01:14:09Z",
           "status": "all",
           "response_time": 1330
+        },
+        {
+          "time": "2025-12-16T06:25:15Z",
+          "status": "all",
+          "response_time": 859
         }
       ]
     }
   },
   "My Services": {
     "service_history": [
-      {
-        "time": "2025-12-13T06:22:13Z",
-        "status": "all"
-      },
       {
         "time": "2025-12-13T12:28:25Z",
         "status": "all"
@@ -164,15 +160,14 @@
       {
         "time": "2025-12-16T01:14:10Z",
         "status": "all"
+      },
+      {
+        "time": "2025-12-16T06:25:16Z",
+        "status": "all"
       }
     ],
     "endpoints": {
       "https://www.mdlpro.cn": [
-        {
-          "time": "2025-12-13T06:22:14Z",
-          "status": "all",
-          "response_time": 276
-        },
         {
           "time": "2025-12-13T12:28:26Z",
           "status": "all",
@@ -227,6 +222,11 @@
           "time": "2025-12-16T01:14:11Z",
           "status": "all",
           "response_time": 267
+        },
+        {
+          "time": "2025-12-16T06:25:17Z",
+          "status": "all",
+          "response_time": 217
         }
       ]
     }
